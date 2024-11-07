@@ -126,19 +126,6 @@
             <id>maven-snapshots</id>
             <url>http://52.62.47.12:8081/repository/maven-snapshots/</url>
         </snapshotRepository>
-    </distributionManagement>
-
-    <server>
-        <id>maven-releases</id>
-        <username>admin/</username>
-        <password>admin123</password>
-    </server>
-
-    <server>
-       <id>maven-snapshots</id>
-       <username>admin/</username>
-       <password>admin123</password>
-    </server>
-	
+    </distributionManagement>	
 
 </project>
